@@ -1,0 +1,27 @@
+ftfy
+regex
+tqdm
+omegaconf
+pytorch-lightning
+kornia
+transformers
+torch_optimizer
+noise
+gputil
+taming-transformers
+# imageio
+# clip-by-openai
+
+# metadata libs
+stegano
+python-xmp-toolkit
+imgtag
+
+
+# Video libs
+imageio-ffmpeg
+timm
+
+# superres
+git+https://github.com/sberbank-ai/Real-ESRGAN
+
